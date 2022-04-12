@@ -12,7 +12,7 @@ Pairs exquisitely with [Tri-Zero](https://github.com/zruncho3d/tri-zero) (a trip
 | - | - | - |
 
 
-| ![Front](Images/front_idlers_2.jpg) | ![Front](Images/AB_Block.jpg) | ![Front](Images/large_corner_3.jpg) |
+| ![Front](Images/front_idlers_2.jpg) | ![Front](Images/AB_block.jpg) | ![Front](Images/large_corner_3.jpg) |
 | - | - | - |
 
 Join us on the `#doomy-worx` channel on the [DoomCube Discord](https://discord.gg/doomcube) - to ask questions, or share your experiences with this mod!
