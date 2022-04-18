@@ -28,7 +28,7 @@ Join us on the `#doomy-worx` channel on the [DoomCube Discord](https://discord.g
 
 ## Updates
 
-#### 2022-04-XX First Release!
+#### 2022-04-18 First Release, Alpha-1!
 
 Hello World, BoxZero.
 
@@ -203,7 +203,7 @@ Print all STLs in the quantites noted from this repo, along with STLs from:
 
 ### Frame
 
-- Joining extrusions (typically for 100 mm + 200 mm --> 300 mm):
+- Joining extrusions (typically for 100 mm + 200 mm -> 300 mm):
     - Print the 1515 extrusion wrench and use it.  It will protect the sensitive anodized finish of the extrusions, vs using an adjustable wrench or vise, both of which will damage the surface finish.
     - Use a 12mm m3 set screw or make one by chopping the end off of a screw with a hack saw or Dremel. Tighten the set screw into the extrusion threads by 6mm or so, and then using an allen wrench, block it from screwing down further.  
     - Then, screw on the small extrusion.  Once you feel resistance, go slow, and use the extrusion wrenches to align to the next quarter-turn.  No loctite should be needed for the set screw, as the aluminum should slightly deform as you add pressure to get the final quarter-turn.  Don't go too hard and destroy the threads, but don't fear: the aluminum will yield before the steel does.
@@ -212,23 +212,39 @@ Print all STLs in the quantites noted from this repo, along with STLs from:
 
 - For the full-height verticals option, put holes in the ends, 7.5mm from the edge.  These are not needed with 300mm extrusions and the frame corners.
 
-- Both corner block types are *designed* to be tight, and in fact, matched to fit your exact extrusions!
-    - You will have to scrape away some of the plastic that goes into the extrusion slot to get them to fit.  This is fully intentional, so that extrusions that are nearly 3.0mm in slot width, up to much sloppier ones (3.6mm or so), can be accommodated, and so that screws become optional, and not even required.  The edge of an extrusion should be sharp enough to peel away a bit of the edge.  Go slow and apply pressure, then back off and clear out the peels.  **The extrusion should fit tightly, without screws, as a result of this.**
-    - To get the exutrusion started into the corner, twist the extrusion into the inner corner to get started, and then keep it parallel.  If one side "escapes", start over and work inwards.  
-    - Most corner screws are optional.  The top-most 12 on the frame are the most important (4 down from the top, and 2 in each corner, sideways).  Beyond this, one or two per corner below should be plenty to add rigidity, but you can add an extra 4 per corner if you want.  If so, make sure to pre-load no-grip NoDropNuts first, in a visible location, so that you can slide them in.
-- Make sure to add all the NoDropNuts you'll need before.  
+- Make sure to add all the NoDropNuts you'll need before, before closing up corners.
   - Add to rear verticals for rear attachments like spool holders or filament guides.
   - Add two on the inner faces of the rear verticals, which will attach to the upper AB blocks.
   - Add one for each hole in the corner stiffeners you intend to use.
+
+- Both corner block types are *designed* to be tight, and in fact, matched to fit your exact extrusions!
+    - You will have to scrape away some of the plastic that goes into the extrusion slot to get them to fit.  This is fully intentional, so that extrusions that are nearly 3.0mm in slot width, up to much sloppier ones (3.6mm or so), can be accommodated, and so that screws become optional, and not even required.  The edge of an extrusion should be sharp enough to peel away a bit of the edge.  Go slow and apply pressure, then back off and clear out the peels.  
+
+    ![Iso](Images/red5_corner_shaving.jpg)
+
+    Note the curl above?  The flat edge of the inside of the slot, as well the sharp corners, will look like this (good!):
+
+   ![Iso](Images/red5_corner_shaving_after.jpg)
+
+   To get the extrusion started into the corner, twist the extrusion into the inner corner to get started, and then keep it parallel.  If one side "escapes", start over and work inwards.
+
+   **The extrusion should fit tightly, without screws.**
+
+    Look ma - no screws!
+
+    ![Iso](Images/red5_top_rotated.jpg)
+
+    - Most corner screws are optional.  The top-most 12 on the frame are the most important (4 down from the top, and 2 in each corner, sideways).  Beyond this, one or two per corner below should be plenty to add rigidity, but you can add an extra 4 per corner if you want.  If so, make sure to pre-load no-grip NoDropNuts first, in a visible location, so that you can slide them in.
+
 - Build the top crown of extrusions and corner blocks, then slide it on top.
 - Add the screws later whe you're sure all the nuts are in the right place.
 
 
 ### AB Blocks
-* Build the modified AB blocks similarly to V0 AB blocks, possibly with the pics above for reference.  
+* Build the modified AB blocks similarly to V0 AB blocks, using with the pics above or V0.1 manual for reference.
   * Press all heatsets flush and make sure to add washers around each F623 bearing stack, but not the 9mm spacers.
   * Protip from Red5: use M3 nuts to secure the bearing and washer stacks with the AB upper parts, temporarily, and then remove the temp nuts right before building the full assembly.
-* Access to the belts is easiest when the AB blocks are outside the frame.  Toothpicks work well to get the belt where you want it.  Route the belts, then add the blocks to the frame.  You don't have to do it this way, but the frame verticals won't get in the way.
+* Access to the belts is easiest when the AB blocks are outside the frame.  Toothpicks work well to get the belt where you want it.  Route the belts, then add the blocks to the frame.  You don't have to do it this way, but if you build the blocks first, the frame verticals won't get in the way.
 
 ### Front Idlers
 * Note that one of the needed washers is built into each part.  Make sure to tighten the screw only when the idler unit is being pulled against the extrusion.  It will be under tension from the belt, and you don't want it shifting when that tension is added.
