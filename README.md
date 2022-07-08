@@ -24,7 +24,7 @@ Three key parts make this mod possible:
 
 Questions?
 
-Join us on the `#doomy-worx` channel on the [DoomCube Discord](https://discord.gg/doomcube) - to ask questions, or share your experiences with this mod!
+Join us on the `#tri-zero` channel on the [DoomCube Discord](https://discord.gg/doomcube) - to ask questions, or share your experiences with this mod!
 
 ## Updates
 
@@ -279,7 +279,7 @@ It's almost a cost-neutral mod for new builds.  The outer enclosure panels get s
 
 The renders and CAD should answer many questions first.
 
-Then, go the DoomCube Discord and ask on the `#doomy-worx` channel.
+Then, go the DoomCube Discord and ask on the `#tri-zero` channel.
 
 ### Convince me!
 
