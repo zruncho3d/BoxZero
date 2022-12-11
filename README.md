@@ -163,7 +163,7 @@ For extrusions you have a few choices:
 | Extrusions | 100mm 1515 | 4 | Option C for extrusions | [MBXL 100mm](https://www.amazon.com/gp/product/B06XJ4T6TW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
 | Extrusions | 200mm 1515 | 4 | Option C for extrusions | [MBXL 200mm](https://www.amazon.com/dp/B06XHQH9WH) |
 | Extrusions | 350mm 1515 | 4 | Option D for extrusions | Misumi, other |
-| Fasteners | M3x12 set screw | 1 per join | Option B/C: join exts; can chop a screw |
+| Fasteners | M3x20 set screw | 1 per join | Option B/C: join exts; can chop a screw.  20mm length is ideal, 16 is probably fine, and 12 is on edge. |
 
 If making the ZeroPanels exclosure with hinges, you'll also need screws and locknuts for each hinge pair:
 
